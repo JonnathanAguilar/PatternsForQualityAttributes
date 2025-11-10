@@ -1,3 +1,0 @@
-interface Historial {
-    void verHistorial();
-}
