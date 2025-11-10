@@ -1,0 +1,3 @@
+interface Historial {
+    void verHistorial();
+}
