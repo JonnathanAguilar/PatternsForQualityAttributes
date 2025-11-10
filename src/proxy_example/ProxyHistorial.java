@@ -1,3 +1,5 @@
+package proxy_example;
+
 public class ProxyHistorial implements Historial{
     private final String usuarioRol;
     private final HistorialMedico historialReal;

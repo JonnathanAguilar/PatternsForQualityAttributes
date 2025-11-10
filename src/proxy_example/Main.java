@@ -1,3 +1,5 @@
+package proxy_example;
+
 public class Main {
     public static void main(String[] args) {
         Historial historial1 = new ProxyHistorial("medico", "Juan Pérez");

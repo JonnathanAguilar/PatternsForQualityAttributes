@@ -15,7 +15,7 @@ public class BluetoothStrategy implements ConnectionStrategy {
 
     @Override
     public void sendMessage(String data) {
-        System.out.println("Mensaje eviado vía Bluetooth: " + data);
+        System.out.println("Mensaje enviado vía Bluetooth: " + data);
     }
     
 }

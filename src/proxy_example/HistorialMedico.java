@@ -1,3 +1,5 @@
+package proxy_example;
+
 public class HistorialMedico implements Historial {
     private final String paciente;
 

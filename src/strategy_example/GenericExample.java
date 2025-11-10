@@ -1,4 +1,4 @@
-package strategy;
+package strategy_example;
 
 class Point {
     private int x;
